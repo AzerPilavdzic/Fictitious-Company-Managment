@@ -7,5 +7,6 @@ _If allowed, user can set roles to other users (except users with role "admin");
 Minimum 5 deparments; 
 Projects | Users | Workplaces | Work card | Roles |
 
-Project is made using C#; MS SQL Server Management Studio is required for proper project run. 
+Project is made using C# EF Core 6; MS SQL Server Management Studio is required for proper project run. 
+WPF / MVC Pattern
 **Use migrations to make local database and data seed.**
